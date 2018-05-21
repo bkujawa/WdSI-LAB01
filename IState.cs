@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 
 namespace Laboratory1 {
+    // Some comment
     public interface IState {
         #region Properties
 
